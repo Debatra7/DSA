@@ -9,3 +9,7 @@ In this repository I will share my DSA Journey in cohort 3.0 by Sheryians Coding
   - [Greet the User](#greet-the-user)
   - [Swap two Numbers](#swap-two-numbers)
   - [Compound Interest calculation](#compound-interest-calculation)
+
+# Disclaimer:
+
+The solutions provided in this repository are my own work copy pasted directly from the course materials. They are not meant to be run as they are. If you want to run the code, you might have to change it according to the requirements of the problem.
